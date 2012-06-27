@@ -1,0 +1,5 @@
+My regrets about this project are mainly about the user interface. I learned QT at the same time I was learning GLSL and Volumetric Rendering techniques so the UI is more mashed together than it is planned out.
+
+However, I am happy that it successfully renders Volumetric details, its a good place to go to look for examples of every type of shader out there as well as some interesting opengl tweaking examples.
+
+In the images you'll see color maping and alpha mapping of intensities, the histogram can be zoomed for better precision for any of these settings. There is also color mapped iso surface rendering as well as Volumetric rendering. There is an option for vector glyphs and lic vector images as well as view aligned slices, and normal slices and view aligned cut away and normal cut away slices. All these effects will work concurrently with one another without graphical glitches where they interact.
